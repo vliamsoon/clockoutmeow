@@ -1,0 +1,998 @@
+{
+  "工作有点烦": {
+    "en": "Work, lah.",
+    "zh": "工作有点烦"
+  },
+  "学业有点烦": {
+    "en": "Study stress",
+    "zh": "学业有点烦"
+  },
+  "钱的事": {
+    "en": "Money stuff",
+    "zh": "钱的事"
+  },
+  "家里的事": {
+    "en": "Family stuff",
+    "zh": "家里的事"
+  },
+  "感情的事": {
+    "en": "Love life",
+    "zh": "感情的事"
+  },
+  "人类太吵": {
+    "en": "People. Just people.",
+    "zh": "人类太吵"
+  },
+  "今天很开心": {
+    "en": "Pretty good today",
+    "zh": "今天很开心"
+  },
+  "平静，没什么烦恼": {
+    "en": "All good. Quite peaceful.",
+    "zh": "平静，没什么烦恼"
+  },
+  "留一点空白": {
+    "en": "Just moved in",
+    "zh": "刚刚搬进来"
+  },
+  "亚麻、木色和一块阳光。少一点，刚刚好。": {
+    "en": "A sunny spot and a comfy bed. Cat is settled.",
+    "zh": "有阳光，有张舒服的床。猫先躺了。"
+  },
+  "住进日常": {
+    "en": "Getting comfy",
+    "zh": "住舒服一点"
+  },
+  "灯有了自己的位置，绿意与地毯也安顿下来。": {
+    "en": "A reading lamp, a plant, a rug. Getting comfy now.",
+    "zh": "添了灯、植物和地毯，舒服多了。"
+  },
+  "慢慢有了家": {
+    "en": "Settled in",
+    "zh": "越来越像家了"
+  },
+  "咖啡机在边柜等明早，音箱和画都在各自的位置。": {
+    "en": "Coffee corner sorted. Tomorrow's problem can wait.",
+    "zh": "咖啡角也有了。其他的事，明天再说。"
+  },
+  "轻轻摸摸睡着的阿懒": {
+    "en": "Gently pet sleepy Ah Lan",
+    "zh": "轻轻摸摸睡着的阿懒"
+  },
+  "摸摸阿懒": {
+    "en": "Pet Ah Lan",
+    "zh": "摸摸阿懒"
+  },
+  "阿懒安心地睡了": {
+    "en": "Ah Lan is fast asleep",
+    "zh": "阿懒安心地睡了"
+  },
+  "阿懒眯起眼睛，歪头蹭蹭": {
+    "en": "Ah Lan leans in for a happy head rub",
+    "zh": "阿懒眯起眼睛，歪头蹭蹭"
+  },
+  "阿懒，一只有点 blur 的猫": {
+    "en": "Ah Lan, a slightly blur cat",
+    "zh": "阿懒，一只有点 blur 的猫"
+  },
+  "呼噜……明天再摸。": {
+    "en": "Prrr. More tomorrow, okay?",
+    "zh": "呼噜……明天再摸。"
+  },
+  "够了啦，明天再摸。": {
+    "en": "Enough lah. More tomorrow.",
+    "zh": "够了啦，明天再摸。"
+  },
+  "嗯……这边也要。": {
+    "en": "Yep. That spot also.",
+    "zh": "嗯……这边也要。"
+  },
+  "和房间里的阿懒打招呼": {
+    "en": "Say hi to Ah Lan",
+    "zh": "和房间里的阿懒打招呼"
+  },
+  "♡ 阿懒听见你了。": {
+    "en": "♡ Ah Lan says hi.",
+    "zh": "♡ 阿懒听见你了。"
+  },
+  "摸摸阿懒 ♡": {
+    "en": "Say hi ♡",
+    "zh": "摸摸阿懒 ♡"
+  },
+  "记录暂时无法读取。为保护原记录，已暂停写入。请检查浏览器储存设置后刷新。": {
+    "en": "Can't open your records. Saving is paused to keep them safe. Check browser storage, then refresh.",
+    "zh": "记录暂时打不开，已暂停保存。请检查浏览器储存设置后刷新。"
+  },
+  "暂时无法读取记录，请刷新后再试。": {
+    "en": "Can't open your records. Refresh and try again.",
+    "zh": "暂时无法读取记录，请刷新后再试。"
+  },
+  "浏览器未能播放声音。请点「播放试听音」，或在 Safari / Chrome 打开。": {
+    "en": "Sound didn't start. Try Test sound, or open in Safari or Chrome.",
+    "zh": "浏览器未能播放声音。请点「播放试听音」，或在 Safari / Chrome 打开。"
+  },
+  "没有保存成功。请允许浏览器储存后刷新；本次不会显示已完成。": {
+    "en": "That didn't save. Allow browser storage, then refresh and try again.",
+    "zh": "没保存成功。请允许浏览器储存后刷新，再试一次。"
+  },
+  "猫在伸懒腰……": {
+    "en": "Cat is stretching...",
+    "zh": "猫在伸懒腰……"
+  },
+  "返回首页": {
+    "en": "Back home",
+    "zh": "返回首页"
+  },
+  "今晚收工": {
+    "en": "CLOCK OUT",
+    "zh": "今晚收工"
+  },
+  "开启轻音乐": {
+    "en": "Turn music on",
+    "zh": "开启轻音乐"
+  },
+  "关闭声音": {
+    "en": "Turn sound off",
+    "zh": "关闭声音"
+  },
+  "个人设置": {
+    "en": "Settings",
+    "zh": "个人设置"
+  },
+  "把今晚还给自己。": {
+    "en": "Take your night back.",
+    "zh": "把今晚还给自己。"
+  },
+  "先把今天，": {
+    "en": "Long day?",
+    "zh": "先把今天，"
+  },
+  "轻轻放下来。": {
+    "en": "Leave it here.",
+    "zh": "先放下吧。"
+  },
+  "记一下心情，把脑中的事先放好。": {
+    "en": "Pick a mood. Jot down what's on your mind.",
+    "zh": "记一下心情，把脑中的事先放好。"
+  },
+  "明天再处理，今晚先收工。": {
+    "en": "Tomorrow can wait. You're done for today.",
+    "zh": "明天再处理，今晚先收工。"
+  },
+  "通常想几点结束刷手机？": {
+    "en": "What time would you like to put your phone down?",
+    "zh": "通常想几点结束刷手机？"
+  },
+  "只是你自己的参考时间。晚一点也不会扣分。": {
+    "en": "Just a time to aim for. No points lost if you're late.",
+    "zh": "给自己定个时间。迟一点也不会扣分。"
+  },
+  "开始 · 开启轻音乐": {
+    "en": "Let's go, music on",
+    "zh": "开始 · 开启轻音乐"
+  },
+  "安静开始": {
+    "en": "Start without sound",
+    "zh": "安静开始"
+  },
+  "全新体验，零记录。旧版测试数据不导入。": {
+    "en": "Your first night starts here.",
+    "zh": "从你的第一晚开始。"
+  },
+  "今晚已收工 ·": {
+    "en": "Clocked out at ",
+    "zh": "今晚已收工 ·"
+  },
+  "今天就到这里。": {
+    "en": "That's enough for today.",
+    "zh": "今天就到这里。"
+  },
+  "现在可以关掉这里了。": {
+    "en": "You can close this now.",
+    "zh": "现在可以关掉这里了。"
+  },
+  "猫不用喂，奖励也不用回来领。": {
+    "en": "Cat's fed. Points saved. Nothing else to do.",
+    "zh": "猫不用喂，奖励也不用回来领。"
+  },
+  "LIFE 已记好": {
+    "en": " LIFE saved",
+    "zh": "LIFE 已记好"
+  },
+  "收工 100 + 写下来 50。": {
+    "en": "100 for clocking out. 50 for writing it down.",
+    "zh": "收工 100 + 写下来 50。"
+  },
+  "每晚一份，不用抢。": {
+    "en": "Once a night. No rush.",
+    "zh": "每晚一份，不用抢。"
+  },
+  "「我先躺了。明天见。」": {
+    "en": "“I'm off to bed. See you tomorrow.”",
+    "zh": "「我先躺了。明天见。」"
+  },
+  "记录的是你决定收工的时间，不是检测到的入睡时间。": {
+    "en": "This records when you chose to clock out. It doesn't track sleep.",
+    "zh": "记录的是你决定收工的时间，不是检测到的入睡时间。"
+  },
+  "新版不用倒数了。旧记录和真实 LIFE 已保留。": {
+    "en": "No more countdown. Your records and earned LIFE are still here.",
+    "zh": "新版不用倒数了。旧记录和真实 LIFE 已保留。"
+  },
+  "关闭更新提示": {
+    "en": "Dismiss update",
+    "zh": "关闭更新提示"
+  },
+  "知道了": {
+    "en": "Got it",
+    "zh": "知道了"
+  },
+  "今天已经够了。": {
+    "en": "You've done enough today.",
+    "zh": "今天已经够了。"
+  },
+  "{0}，这会儿是你的时间。": {
+    "en": "{0}, this bit of the day is yours.",
+    "zh": "{0}，这会儿是你的时间。"
+  },
+  "老板": {
+    "en": "Boss",
+    "zh": "老板"
+  },
+  "收工了，": {
+    "en": "Off duty.",
+    "zh": "收工了，"
+  },
+  "不用再营业。": {
+    "en": "Really, you're done.",
+    "zh": "不用再营业。"
+  },
+  "把今晚，": {
+    "en": "Your night.",
+    "zh": "把今晚，"
+  },
+  "还给自己。": {
+    "en": "Have it back.",
+    "zh": "还给自己。"
+  },
+  "没有下一关。也没有漏领的奖励。": {
+    "en": "Nothing to finish. Nothing to claim.",
+    "zh": "没有下一关。也没有漏领的奖励。"
+  },
+  "不急。等你准备结束今天，再来按一下。": {
+    "en": "No rush. Come back when you're ready to call it a day.",
+    "zh": "不急。等你准备结束今天，再来按一下。"
+  },
+  "不用把所有东西刷完，今天也可以结束。": {
+    "en": "The feed won't finish. You can, though.",
+    "zh": "不用把所有东西刷完，今天也可以结束。"
+  },
+  "阿懒": {
+    "en": "Ah Lan",
+    "zh": "阿懒"
+  },
+  "已下班": {
+    "en": "off duty",
+    "zh": "已下班"
+  },
+  "陪你收尾": {
+    "en": "hanging out with you",
+    "zh": "陪你收尾"
+  },
+  "今晚已收工": {
+    "en": "Clocked out tonight",
+    "zh": "今晚已收工"
+  },
+  "今天够了，我收工了。": {
+    "en": "Enough lah. Clock out.",
+    "zh": "今天够了，我收工了。"
+  },
+  "{0} · +{1} LIFE 已记好": {
+    "en": "{0} · +{1} LIFE saved",
+    "zh": "{0} · +{1} LIFE 已记好"
+  },
+  "先选心情，写下来，再安心离开。": {
+    "en": "Pick a mood, leave a note, call it a night.",
+    "zh": "先选心情，写下来，再安心离开。"
+  },
+  "后来又刷了一下？修正时间就好。": {
+    "en": "Scrolled again? Just update the time.",
+    "zh": "后来又刷了一下？修正时间就好。"
+  },
+  "有些东西已放下 · 查看": {
+    "en": "Your note is here. Have a look.",
+    "zh": "有些东西已放下 · 查看"
+  },
+  "脑袋还很吵？放点东西下来。": {
+    "en": "Too much on your mind? Leave a note.",
+    "zh": "脑袋还很吵？放点东西下来。"
+  },
+  "可跳过": {
+    "en": "Optional",
+    "zh": "可跳过"
+  },
+  "自己的参考时间": {
+    "en": "Your wind-down time",
+    "zh": "想收工的时间"
+  },
+  "最近 7 晚记录": {
+    "en": "Past 7 nights",
+    "zh": "最近 7 晚记录"
+  },
+  "晚收工": {
+    "en": " nights off",
+    "zh": "晚收工"
+  },
+  "怎么算收工与 LIFE？": {
+    "en": "How does LIFE work?",
+    "zh": "怎么算收工与 LIFE？"
+  },
+  "阿懒的慢生活": {
+    "en": "Ah Lan's place",
+    "zh": "阿懒的家"
+  },
+  "空间预览": {
+    "en": "Preview",
+    "zh": "看看房间"
+  },
+  "居所 0{0}": {
+    "en": "Room 0{0}",
+    "zh": "房间 0{0}"
+  },
+  "一间房，": {
+    "en": "A place to",
+    "zh": "一间房，"
+  },
+  "慢慢住成家。": {
+    "en": "do absolutely nothing.",
+    "zh": "好好躺一下。"
+  },
+  "光落下来。猫躺好了。你也可以慢一点。": {
+    "en": "Cat's made itself comfortable. Your turn.",
+    "zh": "猫已经躺好了。你也休息一下。"
+  },
+  "正在预览": {
+    "en": "Just looking",
+    "zh": "正在预览"
+  },
+  "你的居所": {
+    "en": "Your room",
+    "zh": "你的房间"
+  },
+  "你的 LIFE": {
+    "en": "Your LIFE",
+    "zh": "你的 LIFE"
+  },
+  "咖啡机已在边柜。明早再开机，今晚先休息。": {
+    "en": "Coffee machine's in. Coffee tomorrow. Bed first.",
+    "zh": "咖啡机到了。明早再用，今晚先休息。"
+  },
+  "再 {0} LIFE，整个房间一起焕新。": {
+    "en": "{0} more LIFE for the next room.",
+    "zh": "再 {0} LIFE，房间就能升级。"
+  },
+  "已入住": {
+    "en": "Yours",
+    "zh": "已入住"
+  },
+  "{0} LIFE · 可预览": {
+    "en": "{0} LIFE · Preview",
+    "zh": "{0} LIFE · 可预览"
+  },
+  "预览不加分 · 回自己的房间": {
+    "en": "Back to my room",
+    "zh": "回自己的房间"
+  },
+  "每次收工，让日常多一点质感。": {
+    "en": "A little more home, one night at a time.",
+    "zh": "慢慢收工，慢慢添家具。"
+  },
+  "属于你的收工记录": {
+    "en": "Your nights off",
+    "zh": "你的收工记录"
+  },
+  "记下结束，": {
+    "en": "A few nights off.",
+    "zh": "记下结束，"
+  },
+  "不用交成绩。": {
+    "en": "No report card needed.",
+    "zh": "不用交成绩。"
+  },
+  "统计范围": {
+    "en": "Show records for",
+    "zh": "统计范围"
+  },
+  "最近 7 晚": {
+    "en": "Past 7 nights",
+    "zh": "最近 7 晚"
+  },
+  "这个月": {
+    "en": "This month",
+    "zh": "这个月"
+  },
+  "，你记下了": {
+    "en": ", you recorded",
+    "zh": "，你记下了"
+  },
+  "都是你说「今天够了」的时刻。": {
+    "en": "Each one was you saying, “That's enough.”",
+    "zh": "都是你说「今天够了」的时刻。"
+  },
+  "晚达到当晚自己设的参考时间": {
+    "en": " nights at or before your chosen time",
+    "zh": "晚在自己定的时间前收工"
+  },
+  "来自你自己的记录。没有监测睡眠或其他 app。": {
+    "en": "Based on your entries. We don't track sleep or other apps.",
+    "zh": "来自你自己的记录。没有监测睡眠或其他 app。"
+  },
+  "最近 28 晚": {
+    "en": "Past 28 nights",
+    "zh": "最近 28 晚"
+  },
+  "{0} · {1}": {
+    "en": "{0} · {1}",
+    "zh": "{0} · {1}"
+  },
+  "没有记录": {
+    "en": "No entry",
+    "zh": "没有记录"
+  },
+  "{0} {1}": {
+    "en": "{0} {1}",
+    "zh": "{0} {1}"
+  },
+  "已收工": {
+    "en": "Clocked out",
+    "zh": "已收工"
+  },
+  "空白只是没有记录。不是失败。": {
+    "en": "Blank just means no entry. All good.",
+    "zh": "空白只是没有记录。不是失败。"
+  },
+  "收工小票": {
+    "en": "Night notes",
+    "zh": "收工记录"
+  },
+  "晚": {
+    "en": " nights",
+    "zh": "晚"
+  },
+  "第一晚，慢慢来。": {
+    "en": "First night? No rush.",
+    "zh": "第一晚，慢慢来。"
+  },
+  "准备结束今天时，回首页按一下就好。": {
+    "en": "When you're ready, head home and clock out.",
+    "zh": "准备结束今天时，回首页按一下就好。"
+  },
+  "回首页": {
+    "en": "Go home",
+    "zh": "回首页"
+  },
+  "的晚上": {
+    "en": " night",
+    "zh": "的晚上"
+  },
+  "已修正 · ": {
+    "en": "Updated · ",
+    "zh": "已修正 · "
+  },
+  "自行记录": {
+    "en": "Your entry",
+    "zh": "自行记录"
+  },
+  "修正这晚的收工时间": {
+    "en": "Update this night's time",
+    "zh": "修正这晚的收工时间"
+  },
+  "旧版计时记录 ·": {
+    "en": "Old timer entries · ",
+    "zh": "旧版计时记录 ·"
+  },
+  "条": {
+    "en": " entries",
+    "zh": "条"
+  },
+  "保留原记录。不会计入新版收工晚数。真实 LIFE 保留；示范积分不计入房间。": {
+    "en": "Old entries stay here, separate from your nights off. Earned LIFE stays. Demo points don't count towards your room.",
+    "zh": "保留原记录。不会计入新版收工晚数。真实 LIFE 保留；示范积分不计入房间。"
+  },
+  "· 示例": {
+    "en": "· Demo",
+    "zh": "· 示例"
+  },
+  "清除旧版示范记录": {
+    "en": "Clear old demo entries",
+    "zh": "清除旧版示范记录"
+  },
+  "了解记录方式": {
+    "en": "About these records",
+    "zh": "了解记录方式"
+  },
+  "慢一点": {
+    "en": "Slow down",
+    "zh": "慢一点"
+  },
+  "今晚的小收尾 ·": {
+    "en": "Before you go · ",
+    "zh": "今晚收工 ·"
+  },
+  "今天，心里是什么天气？": {
+    "en": "How was today, really?",
+    "zh": "今天过得怎样？"
+  },
+  "脑中的事，先写下来。": {
+    "en": "Still on your mind? Put it here.",
+    "zh": "脑中的事，先写下来。"
+  },
+  "有点烦也可以，很开心也可以。": {
+    "en": "Bit annoyed? Pretty happy? Both count.",
+    "zh": "有点烦也可以，很开心也可以。"
+  },
+  "写下来，明天再烦。有写便条或感恩，每晚额外 +50 LIFE。": {
+    "en": "Leave a note or something you're thankful for. Get 50 extra LIFE, once a night.",
+    "zh": "写便条或一句感恩，额外 +50 LIFE。每晚一次。"
+  },
+  "下一步": {
+    "en": "Next",
+    "zh": "下一步"
+  },
+  "不想选，继续": {
+    "en": "Skip this bit",
+    "zh": "不想选，继续"
+  },
+  "例如，明天要……": {
+    "en": "Maybe tomorrow you need to...",
+    "zh": "例如，明天要……"
+  },
+  "赶完 proposal": {
+    "en": "Finish that proposal",
+    "zh": "赶完 proposal"
+  },
+  "send 出那封 email": {
+    "en": "Send that email",
+    "zh": "send 出那封 email"
+  },
+  "提醒某个人一件事": {
+    "en": "Remind someone about something",
+    "zh": "提醒某个人一件事"
+  },
+  "明天再处理的便条": {
+    "en": "A note for tomorrow",
+    "zh": "明天再处理的便条"
+  },
+  "写你自己的事。不用写得好，记得住就好。": {
+    "en": "No need for nice sentences. Just get it out of your head.",
+    "zh": "写你自己的事。不用写得好，记得住就好。"
+  },
+  "今天有一件想谢谢的事吗？（选填）": {
+    "en": "Anything you're thankful for today? Optional.",
+    "zh": "今天有一件想谢谢的事吗？（选填）"
+  },
+  "感恩日记": {
+    "en": "Something good today",
+    "zh": "感恩日记"
+  },
+  "一杯好喝的咖啡，或一个有听我说话的人。": {
+    "en": "Good coffee. Someone who listened. Small things count.",
+    "zh": "一杯好喝的咖啡，或一个有听我说话的人。"
+  },
+  "便条会在次日早上 7 点后重新打开 app 时出现。感恩留在小票里，不用变成待办。": {
+    "en": "Your note comes back when you open the app after 7 am MYT tomorrow. Your thankful bit stays in your record.",
+    "zh": "便条会在明早 7 点后打开 app 时出现。感恩的事留在记录里。"
+  },
+  "回去改心情": {
+    "en": "Back to my mood",
+    "zh": "回去改心情"
+  },
+  "昨天的你，留了一张便条。": {
+    "en": "A note from you, earlier.",
+    "zh": "你之前留了张便条。"
+  },
+  "早。这个交回给你。": {
+    "en": "You wanted to remember this.",
+    "zh": "这个，你之前想记住。"
+  },
+  "不催你，只是不用再靠脑袋记着。": {
+    "en": "No rush. Just keeping it here so you don't have to.",
+    "zh": "不催你，只是不用再靠脑袋记着。"
+  },
+  "还有 {0} 张便条。": {
+    "en": "{0} more notes waiting.",
+    "zh": "还有 {0} 张便条。"
+  },
+  "回一句，或补充一下（选填）": {
+    "en": "Reply or add something. Optional.",
+    "zh": "回一句，或补充一下（选填）"
+  },
+  "已经处理好了，或今天先做第一步……": {
+    "en": "Done already? Or what's the first small step?",
+    "zh": "已经处理好了，或今天先做第一步……"
+  },
+  "收好了。便条和回复都留在小票里。": {
+    "en": "Saved. Your note and reply are in your record.",
+    "zh": "收好了。便条和回复都在记录里。"
+  },
+  "收到，先收起来": {
+    "en": "Got it. Put it away.",
+    "zh": "收到，先收起来"
+  },
+  "一小时后再提醒我": {
+    "en": "Later, in an hour",
+    "zh": "一小时后再提醒我"
+  },
+  "只在打开 app 时提醒，不会发送系统通知。": {
+    "en": "Reminders appear in the app only. No phone notifications.",
+    "zh": "只在打开 app 时提醒，不会发送系统通知。"
+  },
+  "随你舒服。": {
+    "en": "Make yourself comfortable.",
+    "zh": "随你舒服。"
+  },
+  "不用把生活设定得很完美。": {
+    "en": "A few settings. Nothing too serious.",
+    "zh": "不用把生活设定得很完美。"
+  },
+  "怎么称呼你？（可不填）": {
+    "en": "What should we call you? Optional.",
+    "zh": "怎么称呼你？（可不填）"
+  },
+  "城市": {
+    "en": "City",
+    "zh": "城市"
+  },
+  "其他城市": {
+    "en": "Somewhere else",
+    "zh": "其他城市"
+  },
+  "自己的收工参考时间": {
+    "en": "Your wind-down time",
+    "zh": "想收工的时间"
+  },
+  "改变只影响之后的记录。不影响 LIFE，也不会发送提醒。": {
+    "en": "Applies to future entries only. No effect on LIFE. No alarm.",
+    "zh": "改变只影响之后的记录。不影响 LIFE，也不会发送提醒。"
+  },
+  "屏幕感觉": {
+    "en": "Appearance",
+    "zh": "画面亮度"
+  },
+  "跟随马来西亚时间 · 晚上柔和": {
+    "en": "Auto, softer at night (MYT)",
+    "zh": "自动，晚上柔和一点"
+  },
+  "明亮奶油白": {
+    "en": "Light cream",
+    "zh": "明亮"
+  },
+  "柔和暖灰": {
+    "en": "Soft warm grey",
+    "zh": "柔和"
+  },
+  "Okay，搞定": {
+    "en": "Okay, saved.",
+    "zh": "Okay，搞定"
+  },
+  "资料只保存在这个浏览器，不会跨设备同步。": {
+    "en": "Saved in this browser only. Not synced between devices.",
+    "zh": "资料只保存在这个浏览器，不会跨设备同步。"
+  },
+  "重置全部资料": {
+    "en": "Reset everything",
+    "zh": "重置全部资料"
+  },
+  "后来几点才收工？": {
+    "en": "What time did you actually clock out?",
+    "zh": "后来几点才收工？"
+  },
+  "的晚上。改一下就好，不扣 LIFE，也不重复加分。": {
+    "en": " night. Update it here. No LIFE lost or earned.",
+    "zh": "的晚上。改一下就好，不扣 LIFE，也不重复加分。"
+  },
+  "收工时间": {
+    "en": "Clock-out time",
+    "zh": "收工时间"
+  },
+  "中午 12 点到次日中午前，算同一晚。": {
+    "en": "One night runs from noon to the next noon, Malaysia time.",
+    "zh": "中午 12 点到次日中午前，算同一晚。"
+  },
+  "时间改好了。没有扣分。": {
+    "en": "Time updated. No points lost.",
+    "zh": "时间改好了。没有扣分。"
+  },
+  "记下这个时间": {
+    "en": "Save this time",
+    "zh": "记下这个时间"
+  },
+  "一个小约定。": {
+    "en": "How it works",
+    "zh": "怎么算？"
+  },
+  "我们记下你决定结束的时刻，不检查你有没有睡着。": {
+    "en": "We record when you choose to clock out. We can't tell when you fall asleep.",
+    "zh": "我们记下你决定结束的时刻，不检查你有没有睡着。"
+  },
+  "收工 100，写下来再加 50": {
+    "en": "100 for clocking out. 50 for writing.",
+    "zh": "收工 100，写下来再加 50"
+  },
+  "完成收尾就保存。写便条或感恩可加 50 LIFE，每晚最多 150。早晚不影响分数，重复点击不重复加分。": {
+    "en": "Clock out for 100 LIFE. A note or a thankful thought adds 50. That's up to 150 per night, whatever the time. Tapping again doesn't add more.",
+    "zh": "完成收尾就保存。写便条或感恩可加 50 LIFE，每晚最多 150。早晚不影响分数，重复点击不重复加分。"
+  },
+  "同一晚，只记一次": {
+    "en": "Once a night",
+    "zh": "同一晚，只记一次"
+  },
+  "按马来西亚时间，中午 12 点到次日中午前算一晚。凌晨回来不会重复加分。": {
+    "en": "A night runs from noon to the next noon, Malaysia time. Coming back after midnight won't earn extra points.",
+    "zh": "按马来西亚时间，中午 12 点到次日中午前算一晚。凌晨回来不会重复加分。"
+  },
+  "锁屏、换 app 都不监控": {
+    "en": "No watching what you do",
+    "zh": "锁屏、换 app 都不监控"
+  },
+  "新版没有后台计时，也不会因为离开页面就误判你。后来又刷了，可以自己修正时间。": {
+    "en": "No background timer. Lock your phone or switch apps without a penalty. Scrolled again? You can update your time.",
+    "zh": "新版没有后台计时，也不会因为离开页面就误判你。后来又刷了，可以自己修正时间。"
+  },
+  "记录不是睡眠证明": {
+    "en": "Your record, your word",
+    "zh": "记录不是睡眠证明"
+  },
+  "这里没有“验证离线分钟”。房间随真实记录的 LIFE 解锁；没有排行榜，也不用证明给谁看。": {
+    "en": "We don't measure time offline. LIFE unlocks your room. There's no leaderboard and nobody to impress.",
+    "zh": "这里不统计离线时长。LIFE 可以升级房间，没有排行榜。"
+  },
+  "懂了": {
+    "en": "Got it",
+    "zh": "懂了"
+  },
+  "清除旧示范记录？": {
+    "en": "Clear old demo entries?",
+    "zh": "清除旧示范记录？"
+  },
+  "重新开始？": {
+    "en": "Start over?",
+    "zh": "重新开始？"
+  },
+  "真实旧记录、新收工记录与 LIFE 都会保留。": {
+    "en": "Your own entries and earned LIFE will stay.",
+    "zh": "真实旧记录、新收工记录与 LIFE 都会保留。"
+  },
+  "这个浏览器的所有记录、笔记与家具进度都会删除，无法恢复。": {
+    "en": "This deletes all entries, notes and room progress in this browser. It can't be undone.",
+    "zh": "这个浏览器的所有记录、笔记与家具进度都会删除，无法恢复。"
+  },
+  "先不要": {
+    "en": "Keep it",
+    "zh": "先不要"
+  },
+  "重置未完成，请检查浏览器储存设置。": {
+    "en": "Reset didn't finish. Check your browser storage settings.",
+    "zh": "重置未完成，请检查浏览器储存设置。"
+  },
+  "确认清除": {
+    "en": "Yes, clear it",
+    "zh": "确认清除"
+  },
+  "房间的声音": {
+    "en": "A little background sound",
+    "zh": "背景声音"
+  },
+  "静音": {
+    "en": "Off",
+    "zh": "静音"
+  },
+  "轻快": {
+    "en": "Easy mood",
+    "zh": "轻快"
+  },
+  "入夜": {
+    "en": "Wind down",
+    "zh": "入夜"
+  },
+  "音量": {
+    "en": "Volume",
+    "zh": "音量"
+  },
+  "声音音量": {
+    "en": "Sound volume",
+    "zh": "声音音量"
+  },
+  "试听已启动。若仍听不到，请调高手机媒体音量，或在 Safari / Chrome 打开。": {
+    "en": "Test sound started. Can't hear it? Turn up your phone's media volume, or open in Safari or Chrome.",
+    "zh": "试听已启动。若仍听不到，请调高手机媒体音量，或在 Safari / Chrome 打开。"
+  },
+  "浏览器未能播放声音。请在 Safari / Chrome 打开再试。": {
+    "en": "Sound didn't start. Try opening in Safari or Chrome.",
+    "zh": "浏览器未能播放声音。请在 Safari / Chrome 打开再试。"
+  },
+  "播放试听音": {
+    "en": "Test sound",
+    "zh": "播放试听音"
+  },
+  "手机上请用侧边按键调整媒体音量。": {
+    "en": "Use your phone's side buttons to adjust media volume.",
+    "zh": "手机上请用侧边按键调整媒体音量。"
+  },
+  "轻轻吸气": {
+    "en": "Breathe in",
+    "zh": "轻轻吸气"
+  },
+  "慢慢呼气": {
+    "en": "Breathe out",
+    "zh": "慢慢呼气"
+  },
+  "舒服地停一下": {
+    "en": "Hold gently",
+    "zh": "舒服地停一下"
+  },
+  "已暂停。回来时，从舒服的地方继续。": {
+    "en": "Paused. Continue whenever you're ready.",
+    "zh": "已暂停。回来时，从舒服的地方继续。"
+  },
+  "慢一点，也可以。": {
+    "en": "No rush here.",
+    "zh": "慢一点，也可以。"
+  },
+  "把声音放轻。": {
+    "en": "Less noise.",
+    "zh": "把声音放轻。"
+  },
+  "把自己放松。": {
+    "en": "A bit more peace.",
+    "zh": "把自己放松。"
+  },
+  "不用完成什么，也不用拿分。": {
+    "en": "Nothing to finish. No points to chase.",
+    "zh": "不用完成什么，也不用拿分。"
+  },
+  "敲一下颂钵": {
+    "en": "Singing bowl",
+    "zh": "敲一下颂钵"
+  },
+  "跟着呼吸": {
+    "en": "Breathe along",
+    "zh": "跟着呼吸"
+  },
+  "敲一次颂钵": {
+    "en": "Tap the singing bowl",
+    "zh": "敲一次颂钵"
+  },
+  "声音未开启，请再按一次。": {
+    "en": "Sound didn't start. Give it another tap.",
+    "zh": "声音未开启，请再按一次。"
+  },
+  "叩": {
+    "en": "Tap",
+    "zh": "叩"
+  },
+  "轻点一下": {
+    "en": "One gentle tap",
+    "zh": "轻点一下"
+  },
+  "一下就好。听它慢慢散开。": {
+    "en": "One tap. Let it ring out.",
+    "zh": "一下就好。听它慢慢散开。"
+  },
+  "合成颂钵音色 · 每次点按独立敲响，约 10 秒渐弱。": {
+    "en": "Synthesised bowl sound. Each tap rings out and fades over about 10 seconds.",
+    "zh": "模拟颂钵声。按一次响一次，约 10 秒慢慢散去。"
+  },
+  "轻柔 4:4": {
+    "en": "Easy 4:4",
+    "zh": "轻柔 4:4"
+  },
+  "吸气 · 呼气，不憋气": {
+    "en": "In and out. No holding.",
+    "zh": "吸气 · 呼气，不憋气"
+  },
+  "吸气 · 停留 · 呼气": {
+    "en": "In, hold, out.",
+    "zh": "吸气 · 停留 · 呼气"
+  },
+  "就到这里。": {
+    "en": "That's enough.",
+    "zh": "就到这里。"
+  },
+  "歇一下": {
+    "en": "Take a breather",
+    "zh": "歇一下"
+  },
+  "准备好了？": {
+    "en": "Ready when you are.",
+    "zh": "准备好了？"
+  },
+  "慢慢回到自然呼吸。": {
+    "en": "Let your breathing find its own pace.",
+    "zh": "慢慢回到自然呼吸。"
+  },
+  "2 分钟 · 随时可以停": {
+    "en": "2 minutes. Stop whenever.",
+    "zh": "2 分钟 · 随时可以停"
+  },
+  "4 轮 · 不要勉强憋气": {
+    "en": "4 rounds. Don't force the hold.",
+    "zh": "4 轮 · 不要勉强憋气"
+  },
+  "暂停一下": {
+    "en": "Pause",
+    "zh": "暂停一下"
+  },
+  "继续": {
+    "en": "Continue",
+    "zh": "继续"
+  },
+  "开始呼吸": {
+    "en": "Let's breathe",
+    "zh": "开始呼吸"
+  },
+  "重新开始呼吸": {
+    "en": "Restart breathing",
+    "zh": "重新开始呼吸"
+  },
+  "数字只是引导。轻柔呼吸，不用吸满；若头晕或不舒服，停下并自然呼吸。憋气不舒服就选 4:4。": {
+    "en": "Go gently. No need for a huge breath. If you feel dizzy or uncomfortable, stop and breathe normally. Choose 4:4 if holding feels awkward.",
+    "zh": "轻轻呼吸，不用吸满。头晕或不舒服就停下，自然呼吸。憋气不舒服就选 4:4。"
+  },
+  "为什么用这个节奏？": {
+    "en": "About these rhythms",
+    "zh": "为什么用这个节奏？"
+  },
+  "4:4 参考 NHS 的慢呼吸练习；4:7:8 是常见的放松呼吸法。这里按一拍约一秒引导，不是必须达到的目标，也不保证入睡。": {
+    "en": "4:4 follows NHS slow-breathing guidance. 4:7:8 is a relaxation exercise. We guide at about one second per count. Follow what's comfortable. Neither promises sleep.",
+    "zh": "4:4 参考 NHS 慢呼吸练习，4:7:8 是一种放松呼吸法。这里一拍约一秒，跟着舒服的节奏就好，不保证入睡。"
+  },
+  "NHS：慢呼吸": {
+    "en": "NHS: slow breathing",
+    "zh": "NHS：慢呼吸"
+  },
+  "\n今天想谢谢：{0}": {
+    "en": "\nThankful for: {0}",
+    "zh": "\n今天想谢谢：{0}"
+  },
+  "\n次日回复：{0}": {
+    "en": "\nYour reply: {0}",
+    "zh": "\n次日回复：{0}"
+  },
+  "请输入有效时间": {
+    "en": "Pick a valid time.",
+    "zh": "请选择有效时间。"
+  },
+  "找不到这张小票": {
+    "en": "Can't find this entry.",
+    "zh": "找不到这条记录。"
+  },
+  "这个时间还没到，不能预先记录。": {
+    "en": "That time hasn't happened yet. Pick an earlier time.",
+    "zh": "这个时间还没到，不能预先记录。"
+  },
+  "Home": {
+    "en": "Home",
+    "zh": "首页"
+  },
+  "Room": {
+    "en": "Room",
+    "zh": "猫的家"
+  },
+  "My LIFE": {
+    "en": "My LIFE",
+    "zh": "我的 LIFE"
+  },
+  "Okay lah。": {
+    "en": "Okay lah.",
+    "zh": "Okay lah。"
+  },
+  "Cleveland Clinic：4:7:8": {
+    "en": "Cleveland Clinic: 4:7:8",
+    "zh": "Cleveland Clinic：4:7:8"
+  },
+  "4:7:8": {
+    "en": "4:7:8",
+    "zh": "4:7:8"
+  }
+}
